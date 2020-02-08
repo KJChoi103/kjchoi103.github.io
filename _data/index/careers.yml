@@ -1,19 +1,19 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: University of California, Los Angeles
+    i18n: University of California, Los Angeles
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Majored in Economics
+    i18n: Majored in Economics
   date:
-    detail: Apr. 2016
+    detail: Aug. 2015
     i18n: company_a_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail:
+    i18n: 
   icon: fa-plus-square
-  present: true
+  present: false
 
 - name:
     detail: Company B
