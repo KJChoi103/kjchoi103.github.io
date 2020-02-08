@@ -1,30 +1,36 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: University of California, Los Angeles
-    i18n: University of California, Los Angeles
+
+
+- name: 대교 통합 교육 플랫폼
+    detail: 
   desc:
-    detail: Majored in Economics
-    i18n: Majored in Economics
+    detail: 
   date:
-    detail: Aug. 2015
-    i18n: company_a_date
-  job:
+    detail: Oct. 2019 - Present
+  job: 
     detail:
-    i18n: 
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Busan IT Education Center
+  desc:
+    detail: JAVA 웹/앱 프로그래머 양성 과정
+  date:
+    detail: Feb. 2019 - July. 2019
+  job: 
+    detail:
   icon: fa-plus-square
   present: false
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: University of California, Los Angeles
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Majored in Economics
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: Aug. 2015
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail:
   icon: fa-plus-square
+  present: false
