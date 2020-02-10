@@ -11,7 +11,9 @@
 
 - name: HTML
   href: /html/
-
+  
+- name: Os
+  href: /os/
 
 
 # Don't display donation page: change donation to off at file '_config.yml'
