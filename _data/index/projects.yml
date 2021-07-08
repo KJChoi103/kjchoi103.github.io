@@ -1,6 +1,14 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: Macadamia
+  i18n: 
+  url: https://www.macadamia.kr
+#   img: /static/assets/img/landing/macadamia.png
+  desc: 대교 통합 교육 플랫폼
+
+
 - name: Macadamia
   i18n: 
   url: https://www.macadamia.kr
