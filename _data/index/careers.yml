@@ -13,7 +13,7 @@
     detail: Developer
     i18n: 
   icon: fa-plus-square
-  present: false
+  present: true
 
 - name:
     detail: Conseed
