@@ -10,7 +10,7 @@
 
 - name: LMS
   i18n: 
-  url: http://learning.gweduone.net/
+  url: http://learning.gwedu.go.kr/
 #   img: /static/assets/img/landing/macadamia.png
   desc: 학습 관리 시스템
 
