@@ -29,7 +29,7 @@
 - name: KCC Glass 영업 관리 앱
   i18n: 
   url: 
-#   img: /static/assets/img/landing/macadamia.png
+  img: /static/assets/img/landing/kccGlass.png
   desc: KCC Glass 영업사원 업무 관리 앱
 
 - name: Macadamia
