@@ -5,25 +5,25 @@
 - name: 수리과학체험센터
   i18n: 
 #   url: http://learning.gweduone.net/
-#   img: /static/assets/img/landing/macadamia.png
+  img: /static/assets/img/landing/ms.png
   desc: 체험학습 관리 및 예약 관리 시스템
 
 - name: LMS
   i18n: 
   url: http://learning.gwedu.go.kr/
-#   img: /static/assets/img/landing/macadamia.png
+  img: /static/assets/img/landing/LMS.png
   desc: 학습 관리 시스템
 
 - name: 설문 시스템
   i18n: 
 #   url: http://survey.gweduone.net/
-#   img: /static/assets/img/landing/macadamia.png
+  img: /static/assets/img/landing/survey.png
   desc: 설문 제작 및 응답이 가능한 설문 시스템
 
 - name: 전자책 출판 시스템
   i18n: 
   url: http://contents.gweduone.net/
-#   img: /static/assets/img/landing/macadamia.png
+  img: /static/assets/img/landing/ebook.png
   desc: PDF를 이용한 전자책 출판 시스템
 
 - name: KCC Glass 영업 관리 앱
